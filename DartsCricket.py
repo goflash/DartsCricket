@@ -37,3 +37,4 @@ elif sum1 < sum2:
     print("Выиграл Игорёк 2")
 else:
     print("Ничья")
+#vtoraya versiya
